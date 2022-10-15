@@ -1,14 +1,21 @@
 # vAdmin-web
 
-### install dependency
+## 开发
+
+```bash
+# install dependency
 npm install
 
-### run develop
+# run develop
 npm run serve
+```
 
 ## 发布
 
 ```bash
+# install dependency
+npm install
+
 # 构建测试环境
 npm run build:stage
 
