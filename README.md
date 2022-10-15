@@ -7,7 +7,7 @@
 npm install
 
 # run develop
-npm run serve
+npm run dev
 ```
 
 ## 发布
