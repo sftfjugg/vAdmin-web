@@ -1,7 +1,7 @@
 # vAdmin-web
 
-# install dependency
+### install dependency
 npm install
 
-# develop
+### run develop
 npm run serve
